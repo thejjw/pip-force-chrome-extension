@@ -18,8 +18,8 @@ Re-enables Picture-in-Picture on videos where sites have disabled it.
 3. Enable "Developer mode" (top right).
 4. Click "Load unpacked" and select the `extension` folder.
 
-~~**Also available on the [Chrome Web Store](https://chromewebstore.google.com/detail/pip-force/TODO)**~~
-~~_(Note: The Chrome Web Store version may not always have the latest updates.)_~~
+**Also available on the [Chrome Web Store](https://chromewebstore.google.com/detail/pip-force/ecmdkeodiigikemkodlchglbmoobcddh)**  
+_(Note: The Chrome Web Store version may not always have the latest updates.)_
 
 ## Usage
 
